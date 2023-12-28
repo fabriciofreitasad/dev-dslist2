@@ -17,24 +17,14 @@ Thymeleaf (ou React/ Angular / Vue.js para a camada de frontend)
 Banco de Dados relacional (por exemplo, PostgreSQL, MySQL)
 
 ## Funcionalidades:
-Cadastro de Usuários:
 
-Permitir o cadastro de novos usuários com informações como nome, e-mail e senha.
-Implementar autenticação e autorização utilizando Spring Security.
-Gerenciamento de Tarefas:
+Armazena informações sobre um jogo, como título, gênero, data de lançamento, etc.
+Pode incluir métodos para manipulação ou consulta de informações do jogo.
+Classe GameList:
 
-Desenvolver um sistema de CRUD para o gerenciamento de tarefas.
-Cada tarefa deve ter um título, descrição, status e data de conclusão prevista.
-Listagem e Filtragem de Tarefas:
-
-Permitir a listagem de todas as tarefas cadastradas.
-Implementar filtros para facilitar a busca de tarefas por diferentes critérios.
-Segurança:
-
-Garantir a segurança da aplicação com práticas como autenticação, autorização e proteção contra ataques comuns.
-Documentação:
-
-Utilizar ferramentas como o Swagger para documentar a API REST.
+Armazena uma coleção de objetos da classe Game.
+Fornece métodos para adicionar, remover e consultar jogos na lista.
+Pode incluir funcionalidades adicionais, como ordenação, filtragem ou estatísticas da lista de jogos.
 
 ## Ferramentas Utilizadas no Desenvolvimento:
 Postman:
