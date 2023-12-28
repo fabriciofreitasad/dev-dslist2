@@ -1,8 +1,8 @@
-# Projeto DSList 2
+# -- DSList 2º intensivão --
 
 ## Licença:
-[![NPM](https://img.shields.io/npm/l/react)]([https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE](https://github.com/fabriciofreitasad/dscommerce/blob/26047f98a6c459305fae92262289f2de1cf772f9/LICENSE)) 
-O dscommecer é distribuído sob a licença
+[![NPM](https://img.shields.io/npm/l/react)]([https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE](https://github.com/fabriciofreitasad/dev-dslist-segundo-intesivaoJavaSpring/blob/main/LICENSE)) 
+O dslist é distribuído sob a licença
 o que significa que você é livre para usar, modificar e distribuir o projeto de acordo com os termos da licença.
 
 ## Descrição:
@@ -102,5 +102,6 @@ O servidor estará disponível em http://localhost:8081. Você pode acessar a AP
 
 ## Autor:
 Fabricio Freitas.
+
 [https://www.linkedin.com/in/fabricio-freitas-oliveira-645536242]
 
