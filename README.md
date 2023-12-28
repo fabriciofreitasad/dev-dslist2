@@ -1,4 +1,4 @@
-# Projeto Intensivão Java Spring Boot - DevSuperior DSList
+# Projeto DSList 2
 
 ## Licença:
 [![NPM](https://img.shields.io/npm/l/react)]([https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE](https://github.com/fabriciofreitasad/dscommerce/blob/26047f98a6c459305fae92262289f2de1cf772f9/LICENSE)) 
@@ -9,7 +9,6 @@ o que significa que você é livre para usar, modificar e distribuir o projeto d
 O projeto Intensivão Java Spring Boot na DevSuperior DSList é uma iniciativa educacional e prática promovida pela DevSuperior com o objetivo de oferecer aos participantes uma imersão intensiva no desenvolvimento de aplicações Java utilizando o framework Spring Boot. Este projeto visa proporcionar uma experiência hands-on, abordando conceitos avançados, boas práticas e técnicas modernas de desenvolvimento.
 
 ## Tecnologias Utilizadas:
-
 Java
 Spring Boot
 Spring Data JPA
@@ -18,7 +17,6 @@ Thymeleaf (ou React/ Angular / Vue.js para a camada de frontend)
 Banco de Dados relacional (por exemplo, PostgreSQL, MySQL)
 
 ## Funcionalidades:
-
 Cadastro de Usuários:
 
 Permitir o cadastro de novos usuários com informações como nome, e-mail e senha.
@@ -72,23 +70,17 @@ A DevSuperior agradece a participação de todos os desenvolvedores e espera que
 
 Vamos juntos transformar o dslist. em uma plataforma de e-commerce verdadeiramente revolucionária em Java 17 com Spring Boot! Sejam todos bem-vindos! 🚀
 
-## Layout mobile 
+## Modelo de domínio DSList
 
-## Layout web
-
-## Link do projeto completo:
-
-## Modelo conceitual
+![image](https://github.com/fabriciofreitasad/dev-dslist-segundo-intesivaoJavaSpring/assets/111000422/76aea0a8-becc-4fce-944a-e272c2045216)
 
 ## Requisitos:
-
 Conhecimento básico em Java e Spring Boot.
 Familiaridade com conceitos de banco de dados relacional.
 Ambiente de desenvolvimento configurado.
 Instruções para Contribuição:
 
 ## Instruções para Contribuição:
-
 Faça um fork do repositório.
 Clone o fork para o seu ambiente local.
 Crie uma branch para cada funcionalidade ou correção de bug.
@@ -98,7 +90,7 @@ Abra um Pull Request para revisão.
 
 ## Como executar o projeto
 Clone este repositório para o seu ambiente de desenvolvimento local.
-[https://github.com/fabriciofreitasad/dscommerce]
+[https://github.com/fabriciofreitasad/dev-dslist-segundo-intesivaoJavaSpring]
 
 Abra o projeto no STS (Spring Tool Suite) ou na sua IDE preferida.
 
